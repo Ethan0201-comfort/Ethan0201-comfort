@@ -1,4 +1,11 @@
-## Hi there 👋
+<div align="center">
+
+## Hi there, I'm Ethan! 👋
+### ***「人類終究會做點什麼的，畢竟生命如此短暫」***
+</div>
+
+<!--
+![GitHub Contributions](https://ghchart.rshah.org/219138/Ethan0201-comfort)
 
 <!--
 **Ethan0201-comfort/Ethan0201-comfort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
